@@ -1,7 +1,7 @@
 # EV Market Performance Insights (SQL + Tableau + Flask)
 Interactive Tableau dashboard and story, backed by a MySQL database and embedded in a Flask web app.
 
-**Live demo:** <https://public.tableau.com/app/profile/insiya.talib/viz/EVMarketInsights/EVDashboard?publish=yes> 
+**Live demo:** <https://ev-market-insights-e7fx.onrender.com/>
 
 ## Pipeline
 1. `python generate_dataset.py` -> `data/ev_market.csv` (2,500 rows, 12 columns; synthetic, replace with real data if available)
